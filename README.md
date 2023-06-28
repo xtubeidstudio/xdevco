@@ -5,6 +5,6 @@ XDevCO
 
 functional javascript files :
 
-base.js = as a random code generator so that it is always updated
+base.js = as a random code generator so that it is always updated (By Time and Random String)
 
 cdn link ==> https://cdn.jsdelivr.net/gh/xtubeidstudio/xdevco@main/base.js
